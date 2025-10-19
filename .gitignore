@@ -1,0 +1,48 @@
+# Build directories
+.vscode/
+.idea/
+/build/
+build/
+cmake-build-*/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Editor / IDE specific
+.vscode/
+.idea/
+*.swp
+*.user
+*.workspace
+*.code-workspace
+
+# OS generated
+.DS_Store
+Thumbs.db

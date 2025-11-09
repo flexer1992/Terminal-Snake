@@ -6,7 +6,6 @@
 #ifndef SNAKEGAME_ANSI_H
 #define SNAKEGAME_ANSI_H
 
-
 class Ansi {
 public:
     static constexpr const char *ClearScreen = "\x1b[2J";
